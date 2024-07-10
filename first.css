@@ -1,3 +1,10 @@
 p{
     margin:0;
 }
+
+.first{
+    background-color: antiquewhite;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+}
